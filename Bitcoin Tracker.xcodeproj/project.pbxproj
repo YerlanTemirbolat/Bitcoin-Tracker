@@ -65,6 +65,7 @@
 				844D956B264F079500EE3667 /* ViewModel */,
 				844D956A264F078600EE3667 /* View */,
 				844D9568264F075D00EE3667 /* Networking */,
+				844D9569264F077000EE3667 /* Model */,
 				844D954A264D4A3C00EE3667 /* AppDelegate.swift */,
 				844D954C264D4A3C00EE3667 /* SceneDelegate.swift */,
 				844D9553264D4A4000EE3667 /* Assets.xcassets */,
@@ -78,7 +79,6 @@
 			isa = PBXGroup;
 			children = (
 				844D955F264D4BB000EE3667 /* APICaller.swift */,
-				844D9569264F077000EE3667 /* Model */,
 			);
 			path = Networking;
 			sourceTree = "<group>";
